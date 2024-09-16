@@ -2,6 +2,9 @@
 
 Terrain-Adventures is a hiking guide website that provides useful information and resources for hiking enthusiasts. The site features sections on hiking levels, essential equipment, and blog articles for planning your adventures in the mountains and beyond.
 
+You can view the live version of the website hosted on Vercel by clicking the link below:
+
+🔗 **[Visit the Live Website](https://terrain-adventures-landing-page.vercel.app/)**
 ## Table of Contents
 
 - [Features](#features)
