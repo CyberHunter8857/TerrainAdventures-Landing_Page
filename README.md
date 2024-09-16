@@ -1,2 +1,37 @@
-# TerrainAdventures-Landing_Page-
-Terrain-Adventures is a responsive hiking guide website designed for outdoor enthusiasts. It features hiking tips, gear recommendations, and blog articles, with smooth animations and a user-friendly interface built using HTML, CSS, and JavaScript. Perfect for anyone planning their next adventure!
+# Terrain-Adventures
+
+Terrain-Adventures is a hiking guide website that provides useful information and resources for hiking enthusiasts. The site features sections on hiking levels, essential equipment, and blog articles for planning your adventures in the mountains and beyond.
+
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- **Responsive Navigation Bar**: A toggleable mobile-friendly menu.
+- **Header Section**: Includes a hero image with a dynamic title and scrolling feature.
+- **Hiking Guide Sections**: Describes different hiking levels, gear selection, and tips for reading maps.
+- **Scroll Animations**: Enhances user interaction with smooth scroll reveals.
+- **Social Media Links**: Integrated social media icons for Instagram and Twitter.
+- **Footer Section**: Contains site information and additional resources.
+
+## Technologies Used
+
+- HTML5 for content structure
+- CSS3 for layout and styling
+- JavaScript for functionality and interactivity
+- [Remix Icon](https://remixicon.com/) for icons
+- [ScrollReveal](https://scrollrevealjs.org/) for scroll animations
+
+## Installation
+
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/Terrain-Adventures.git
