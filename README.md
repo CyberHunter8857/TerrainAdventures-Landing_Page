@@ -1,4 +1,4 @@
-# Terrain-Adventures
+# Terrain-Adventures(Landing Page)
 
 Terrain-Adventures is a hiking guide website that provides useful information and resources for hiking enthusiasts. The site features sections on hiking levels, essential equipment, and blog articles for planning your adventures in the mountains and beyond.
 
